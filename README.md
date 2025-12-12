@@ -1,0 +1,1 @@
+# Effect-of-the-Regularization-Parameter-C-on-Margin-Width-and-Generalization-in-SVM
